@@ -1,0 +1,15 @@
+artifact_uri: file:///A:/CODES/localMLTest/mlruns/0/dee972c5dec94e9597097e59f8845da2/artifacts
+end_time: 1702629825675
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: dee972c5dec94e9597097e59f8845da2
+run_name: thoughtful-newt-335
+run_uuid: dee972c5dec94e9597097e59f8845da2
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1702629822510
+status: 3
+tags: []
+user_id: amans

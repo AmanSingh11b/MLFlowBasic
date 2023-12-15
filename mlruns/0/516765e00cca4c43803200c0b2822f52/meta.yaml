@@ -1,0 +1,15 @@
+artifact_uri: file:///A:/CODES/localMLTest/mlruns/0/516765e00cca4c43803200c0b2822f52/artifacts
+end_time: 1702629605890
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 516765e00cca4c43803200c0b2822f52
+run_name: debonair-worm-620
+run_uuid: 516765e00cca4c43803200c0b2822f52
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1702629602319
+status: 3
+tags: []
+user_id: amans
