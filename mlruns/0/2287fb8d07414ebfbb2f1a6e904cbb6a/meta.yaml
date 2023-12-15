@@ -1,0 +1,15 @@
+artifact_uri: file:///A:/CODES/localMLTest/mlruns/0/2287fb8d07414ebfbb2f1a6e904cbb6a/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 2287fb8d07414ebfbb2f1a6e904cbb6a
+run_name: delightful-bee-505
+run_uuid: 2287fb8d07414ebfbb2f1a6e904cbb6a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1702649363651
+status: 1
+tags: []
+user_id: amans
